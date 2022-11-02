@@ -9,4 +9,8 @@ public class newtogit {
     public void gitNew(){
         System.out.println("new to git");
     }
+    @Test
+    public void gitNew2(){
+        System.out.println("new to git-2");
+    }
 }
